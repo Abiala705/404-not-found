@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://abiala-404.netlify.app/">
+    <a href="https://abiala-404.netlify.app/">
       Solution
     </a>
     <span> | </span>
